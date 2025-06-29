@@ -812,12 +812,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_GIJZnZzIafD3RyO-b5r-91" value="Pretraining tasks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="247.72" y="120" width="115.07" height="10" as="geometry" />
+          <mxGeometry x="247.72" y="144" width="115.07" height="10" as="geometry" />
         </mxCell>
         <mxCell id="_GIJZnZzIafD3RyO-b5r-93" value="Masked atom type&lt;div&gt;Masked bond type&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="165" y="160" width="101" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="_GIJZnZzIafD3RyO-b5r-96" value="Masked atom type&lt;div&gt;Masked bond type&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_GIJZnZzIafD3RyO-b5r-96" value="Physicochemical&lt;br&gt;descriptors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="345" y="160" width="101" height="22" as="geometry" />
         </mxCell>
       </root>
